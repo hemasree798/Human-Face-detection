@@ -1,0 +1,8 @@
+# Train/val/test sets
+train: 'c:\Users\hemas\Documents\Applied_AI_and_ML_Courses\Foundations_Of_ML\labs\Human-Face-detection\data\YOLO_Format\images\train'
+val: 'c:\Users\hemas\Documents\Applied_AI_and_ML_Courses\Foundations_Of_ML\labs\Human-Face-detection\data\YOLO_Format\images\validation'
+test: 'c:\Users\hemas\Documents\Applied_AI_and_ML_Courses\Foundations_Of_ML\labs\Human-Face-detection\data\YOLO_Format\images\test'
+
+# Classes
+names:
+  0: face
